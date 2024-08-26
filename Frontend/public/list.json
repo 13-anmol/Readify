@@ -1,0 +1,46 @@
+[
+    {
+        "id":1,
+        "name": "Story Book",
+        "title": "From timeless classics to modern masterpieces, find your next favorite story here.",
+        "Price": 0,
+        "Category":"Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713606046~exp=1713609646~hmac=00d20d23be42b4718560e4e13792238f9fec1c808c884fe6c276b7ea44a14956&w=740"
+    },
+
+    {
+        "id":2,
+        "name": "Comedy Book",
+        "title": "From timeless classics to modern masterpieces, find your next favorite story here.",
+        "Price": 20,
+        "Category":"Entertainment",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713606046~exp=1713609646~hmac=00d20d23be42b4718560e4e13792238f9fec1c808c884fe6c276b7ea44a14956&w=740"
+    },
+
+    {
+        "id":3,
+        "name": "Sports Book",
+        "title": "From timeless classics to modern masterpieces, find your next favorite story here.",
+        "Price": 10,
+        "Category":"Sports",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713606046~exp=1713609646~hmac=00d20d23be42b4718560e4e13792238f9fec1c808c884fe6c276b7ea44a14956&w=740"
+    },
+
+    {
+        "id":4,
+        "name": "Music Book",
+        "title": "From timeless classics to modern masterpieces, find your next favorite story here.",
+        "Price": 0,
+        "Category":"Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713606046~exp=1713609646~hmac=00d20d23be42b4718560e4e13792238f9fec1c808c884fe6c276b7ea44a14956&w=740"
+    },
+
+    {
+        "id":5,
+        "name": "Food Book",
+        "title": "From timeless classics to modern masterpieces, find your next favorite story here.",
+        "Price": 0,
+        "Category":"Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713606046~exp=1713609646~hmac=00d20d23be42b4718560e4e13792238f9fec1c808c884fe6c276b7ea44a14956&w=740"
+    }
+]
